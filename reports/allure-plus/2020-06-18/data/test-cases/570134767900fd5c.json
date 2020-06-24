@@ -1,0 +1,145 @@
+{
+  "uid" : "570134767900fd5c",
+  "name" : "test_repeat3[3-5]",
+  "fullName" : "testcases.Test_repeat.Test_repeat2#test_repeat3",
+  "historyId" : "c2769eb57548de8da4f1716358df1b66",
+  "time" : {
+    "start" : 1592466086338,
+    "stop" : 1592466086338,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1592466086337,
+      "stop" : 1592466086337,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1592466086337,
+      "stop" : 1592466086337,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592466085854,
+      "stop" : 1592466086004,
+      "duration" : 150
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592466085854,
+      "stop" : 1592466086004,
+      "duration" : 150
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "897ec59db569969",
+      "name" : "log",
+      "source" : "897ec59db569969.txt",
+      "type" : "text/plain",
+      "size" : 193
+    }, {
+      "uid" : "df0859a866ecbde0",
+      "name" : "stdout",
+      "source" : "df0859a866ecbde0.txt",
+      "type" : "text/plain",
+      "size" : 22
+    }, {
+      "uid" : "141e4999462f5c52",
+      "name" : "stderr",
+      "source" : "141e4999462f5c52.txt",
+      "type" : "text/plain",
+      "size" : 152
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_repeat"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_repeat2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T9LGAR2"
+  }, {
+    "name" : "thread",
+    "value" : "112476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.Test_repeat"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "value" : "2"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "570134767900fd5c.json",
+  "parameterValues" : [ "2" ]
+}

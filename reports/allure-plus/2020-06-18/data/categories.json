@@ -1,0 +1,52 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "KeyError: 'n'",
+      "children" : [ {
+        "name" : "test_login1",
+        "uid" : "6048d89df7d6d290",
+        "parentUid" : "8bf368d2310daf59aa523d26041988ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592466086260,
+          "stop" : 1592466086260,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login1",
+        "uid" : "30fd2e447cdaa745",
+        "parentUid" : "8bf368d2310daf59aa523d26041988ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592466086260,
+          "stop" : 1592466086260,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login1",
+        "uid" : "fb69f50c6fb35151",
+        "parentUid" : "8bf368d2310daf59aa523d26041988ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592466089285,
+          "stop" : 1592466089285,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8bf368d2310daf59aa523d26041988ca"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

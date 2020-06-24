@@ -1,0 +1,139 @@
+{
+  "uid" : "9a0c8194c769d65d",
+  "name" : "test_s3",
+  "fullName" : "testcases.Test_2#test_s3",
+  "historyId" : "80d2afdea2679ef9490302edf4c998c9",
+  "time" : {
+    "start" : 1592396692696,
+    "stop" : 1592396692697,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "open",
+    "time" : {
+      "start" : 1592396692682,
+      "stop" : 1592396692682,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592396692428,
+      "stop" : 1592396692548,
+      "duration" : 120
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1592396692696,
+      "stop" : 1592396692696,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "437d0b28f9b4462a",
+      "name" : "log",
+      "source" : "437d0b28f9b4462a.txt",
+      "type" : "text/plain",
+      "size" : 178
+    }, {
+      "uid" : "a574c9dc6e21d475",
+      "name" : "stdout",
+      "source" : "a574c9dc6e21d475.txt",
+      "type" : "text/plain",
+      "size" : 41
+    }, {
+      "uid" : "d78eccce0a26b4ba",
+      "name" : "stderr",
+      "source" : "d78eccce0a26b4ba.txt",
+      "type" : "text/plain",
+      "size" : 137
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "open::0",
+    "time" : {
+      "start" : 1592396692699,
+      "stop" : 1592396692699,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T9LGAR2"
+  }, {
+    "name" : "thread",
+    "value" : "114600-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.Test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a0c8194c769d65d.json",
+  "parameterValues" : [ ]
+}

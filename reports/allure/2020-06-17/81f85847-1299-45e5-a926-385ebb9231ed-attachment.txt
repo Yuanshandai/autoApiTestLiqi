@@ -1,0 +1,3 @@
+INFO - ------------------------------------------------------
+INFO - Func test_s2 in file: C:\liqi\autoApiTestLiqi\testcases\Test_1.py
+2020-06-17 14:58:34,912 - process: 58980 - Test_1.py - 日志 - 39 - Test_1 - INFO - 成功

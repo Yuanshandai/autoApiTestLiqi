@@ -1,0 +1,2 @@
+INFO - ------------------------------------------------------
+INFO - Func test_send_http in file: C:\liqi\autoApiTestLiqi\testcases\Test_mark.py

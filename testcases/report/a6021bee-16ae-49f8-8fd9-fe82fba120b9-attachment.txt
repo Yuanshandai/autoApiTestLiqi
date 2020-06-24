@@ -1,0 +1,160 @@
+--- Logging error ---
+Traceback (most recent call last):
+  File "c:\python\lib\logging\__init__.py", line 1037, in emit
+    stream.write(msg + self.terminator)
+OSError: [WinError 6] 句柄无效。
+Call stack:
+  File "c:\python\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "c:\python\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "C:\Python\Scripts\pytest.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\python\lib\site-packages\_pytest\config\__init__.py", line 125, in main
+    config=config
+  File "c:\python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "c:\python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "c:\python\lib\site-packages\_pytest\main.py", line 240, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "c:\python\lib\site-packages\_pytest\main.py", line 191, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "c:\python\lib\site-packages\_pytest\main.py", line 247, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "c:\python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "c:\python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "c:\python\lib\site-packages\_pytest\main.py", line 272, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "c:\python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "c:\python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 85, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 94, in runtestprotocol
+    rep = call_and_report(item, "setup", log)
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 186, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 217, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 244, in from_call
+    result = func()
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 217, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "c:\python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "c:\python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "c:\python\lib\site-packages\auto_checklog.py", line 21, in pytest_runtest_setup
+    test_steps.log_new_func(item.name, str(item.fspath) )
+  File "c:\python\lib\site-packages\test_steps\__init__.py", line 109, in log_new_func
+    __step_info.new_func(name, path)
+  File "c:\python\lib\site-packages\test_steps\__init__.py", line 87, in new_func
+    self.__log_case()
+  File "c:\python\lib\site-packages\test_steps\__init__.py", line 90, in __log_case
+    self.step_logger.info("------------------------------------------------------")
+Message: '------------------------------------------------------'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "c:\python\lib\logging\__init__.py", line 1037, in emit
+    stream.write(msg + self.terminator)
+OSError: [WinError 6] 句柄无效。
+Call stack:
+  File "c:\python\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "c:\python\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "C:\Python\Scripts\pytest.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\python\lib\site-packages\_pytest\config\__init__.py", line 125, in main
+    config=config
+  File "c:\python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "c:\python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "c:\python\lib\site-packages\_pytest\main.py", line 240, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "c:\python\lib\site-packages\_pytest\main.py", line 191, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "c:\python\lib\site-packages\_pytest\main.py", line 247, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "c:\python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "c:\python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "c:\python\lib\site-packages\_pytest\main.py", line 272, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "c:\python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "c:\python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 85, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 94, in runtestprotocol
+    rep = call_and_report(item, "setup", log)
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 186, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 217, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 244, in from_call
+    result = func()
+  File "c:\python\lib\site-packages\_pytest\runner.py", line 217, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "c:\python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "c:\python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "c:\python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "c:\python\lib\site-packages\auto_checklog.py", line 21, in pytest_runtest_setup
+    test_steps.log_new_func(item.name, str(item.fspath) )
+  File "c:\python\lib\site-packages\test_steps\__init__.py", line 109, in log_new_func
+    __step_info.new_func(name, path)
+  File "c:\python\lib\site-packages\test_steps\__init__.py", line 87, in new_func
+    self.__log_case()
+  File "c:\python\lib\site-packages\test_steps\__init__.py", line 91, in __log_case
+    self.step_logger.info("Func %s in file: %s" % (self.case_name, self.file_name))
+Message: 'Func test_heartbeat in file: C:\\liqi\\autoApiTestLiqi\\testcases\\Test_case2_pushMiniPro.py'
+Arguments: ()
+2020-06-23 18:04:03,986 - process: 129172 - Test_case2_pushMiniPro.py - 日志 - 147 - Test_case2_pushMiniPro - INFO - 心跳接口接口的地址是:http://172.16.117.151:8080/wechat-api/api/wechat/heartbeat
+2020-06-23 18:04:03,986 - process: 129172 - Test_case2_pushMiniPro.py - 日志 - 171 - Test_case2_pushMiniPro - INFO - 心跳接口的入参是：{'account': 'dongfangyao', 'canReceiveNewOrder': True, 'isRoot': True, 'laterReceive': False, 'miPushId': 'PFHBfYNju2pJ7970mm3OvnSiUgFIC\\/d7wTctDTfP+3n5RXTnRn0Eyqes2yJaVzQm', 'os': 'android', 'otherWechatIds': ['wxid_y2twb3cy6a3o22_YC'], 'version': '3.1.9', 'wechatDeviceId': '11ea23e764c1302a', 'wechatId': 'wxid_ss245739845', 'wechatLive': True, 'wechatVersion': '7.0.4', 'wxBackgroundMode': True, 'wxHackEnabled': True, 'versionName': '3.0.6.1', 'versionCode': '69', 'wechatAccount': 'wxid_ss245739845', 'wechatVersionCode': '1420', 'source': 'app_root', 'loginAccount': 'dongfangyao', 'phoneDeviceId': '11ea23e764c1302a'}
+2020-06-23 18:04:03,986 - process: 129172 - Test_case2_pushMiniPro.py - 日志 - 172 - Test_case2_pushMiniPro - INFO - =====开始请求心跳接口
+2020-06-23 18:04:04,045 - process: 129172 - Test_case2_pushMiniPro.py - 日志 - 174 - Test_case2_pushMiniPro - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': {'operationId': 1271, 'account': 'dongfangyao', 'accountWechatId': 'wxid_ss245739845', 'studentWechatId': 'lq1592904705109988', 'nsNickName': 'lq1592904705109988', 'studentRealWechatId': 'wxid_1592904705109988', 'serverTime': 1592906644375, 'retryCount': 1, 'operationType': 36, 'recordId': '1592906643902335', 'version': None, 'expireTime': 1593079444376, 'system': 'WE', 'lastTryId': None, 'additionalInfo': '高意向学员', 'notNeedCover': True, 'os': 'android', 'messageList': [], 'messageListStr': None, 'guideSpeech': '同学你好', 'programId': 'ws123', 'pictureTitle': '小程序', 'pictureImg': 'string', 'programURL': 'http:hh123.com?additionalProp1=&additionalProp2=&additionalProp3=', 'miniproType': 0, 'h5Url': None, 'h5Title': None, 'h5Description': None, 'h5CoverUrl': None, 'pictureUrl': None, 'stuNickNames': None, 'textContent': None, 'atUserList': None, 'stuNickNamesStr': None, 'atUserListStr': None, 'videoUrl': None, 'videoTitle': None, 'videoImage': None, 'videoDesc': None, 'chatRoomName': None, 'chatRoomWxIds': None, 'chatRoomContents': None, 'chatRoomWxIdsStr': None, 'chatRoomContentsStr': None, 'chatRoomId': None, 'chatRoomCardContent': None, 'remark': None, 'urlQRCode': None, 'labelType': None, 'labels': None, 'labelsStr': None, 'memoText': None, 'memoPicUrls': None, 'memoPicUrlsStr': '', 'visibleType': None, 'personListId': None, 'personListIdStr': '', 'crowdListId': None, 'crowdListIdStr': '', 'labelList': None, 'labelListStr': '', 'warnWindowMessage': None}}
+2020-06-23 18:04:04,045 - process: 129172 - Test_case2_pushMiniPro.py - 日志 - 177 - Test_case2_pushMiniPro - INFO - 状态码的值是: 200
+2020-06-23 18:04:04,045 - process: 129172 - Test_case2_pushMiniPro.py - 日志 - 180 - Test_case2_pushMiniPro - INFO - ===状态码正确======
+2020-06-23 18:04:04,045 - process: 129172 - Test_case2_pushMiniPro.py - 日志 - 181 - Test_case2_pushMiniPro - INFO - operationId的值是: 1271
+2020-06-23 18:04:04,045 - process: 129172 - Test_case2_pushMiniPro.py - 日志 - 182 - Test_case2_pushMiniPro - INFO - <class 'dict'>

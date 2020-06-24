@@ -1,0 +1,384 @@
+{
+  "uid" : "61cb87d0c28f079a",
+  "name" : "test_s3",
+  "fullName" : "testcases.Test_2#test_s3",
+  "historyId" : "80d2afdea2679ef9490302edf4c998c9",
+  "time" : {
+    "start" : 1592398102142,
+    "stop" : 1592398102143,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1592398102141,
+      "stop" : 1592398102141,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592398101822,
+      "stop" : 1592398102099,
+      "duration" : 277
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "open",
+    "time" : {
+      "start" : 1592398102124,
+      "stop" : 1592398102124,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "92f82a58e24dc3cd",
+      "name" : "log",
+      "source" : "92f82a58e24dc3cd.txt",
+      "type" : "text/plain",
+      "size" : 178
+    }, {
+      "uid" : "2b4cd2e06215bba9",
+      "name" : "stdout",
+      "source" : "2b4cd2e06215bba9.txt",
+      "type" : "text/plain",
+      "size" : 41
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "open::0",
+    "time" : {
+      "start" : 1592398102145,
+      "stop" : 1592398102146,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T9LGAR2"
+  }, {
+    "name" : "thread",
+    "value" : "66496-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.Test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "705dc85b65460311",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592398101913,
+        "stop" : 1592398101913,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "44423b478fa88866",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592398101832,
+        "stop" : 1592398101833,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c5a15f40882a91b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592398067136,
+        "stop" : 1592398067136,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4b8988fefefb2f79",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592396716712,
+        "stop" : 1592396716712,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e8b2c2abc658b6c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592396692696,
+        "stop" : 1592396692697,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "35e88a10696b24e6",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592396684775,
+        "stop" : 1592396684775,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "30f21e8cc91d0a1d",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592396684775,
+        "stop" : 1592396684775,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bb0977ed906cf358",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380748157,
+        "stop" : 1592380748158,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c7793e5e2ffc7269",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592380743191,
+        "stop" : 1592380743192,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "122868fc6747637",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592380743191,
+        "stop" : 1592380743192,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cfa92142d3e229d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380512280,
+        "stop" : 1592380512280,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6afab0f880b2bccb",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592380507532,
+        "stop" : 1592380507533,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "978682e40b1c52ef",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592380507532,
+        "stop" : 1592380507533,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d9c538911f44ecda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380345806,
+        "stop" : 1592380345807,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d5a6fab569e101a5",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592380341751,
+        "stop" : 1592380341751,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b64de8924328e39a",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592380341751,
+        "stop" : 1592380341751,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b68a68ef0898ba26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380003547,
+        "stop" : 1592380003547,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b91ba1d8f46cabb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592377119216,
+        "stop" : 1592377119216,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a5c9cedcb39a0cbe",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592377114962,
+        "stop" : 1592377114962,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8e1bd9baa5e24226",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592377114962,
+        "stop" : 1592377114962,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4f96f2f59cc8d682",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592377040251,
+        "stop" : 1592377040252,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bad990d97e99d4f1",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592377034459,
+        "stop" : 1592377034460,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8ce33924604916e4",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592377034459,
+        "stop" : 1592377034460,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "741b819fe58bdd45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592364387702,
+        "stop" : 1592364387702,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e5f274730e0de9b5",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592364387282,
+        "stop" : 1592364387282,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a7032d24b54f10cf",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592364387282,
+        "stop" : 1592364387282,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c4a67ac97593c793",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592362159494,
+        "stop" : 1592362159494,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "10a0dcfdb6ddf183",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592362158720,
+        "stop" : 1592362158720,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "47a966e60b9795ab",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592362158720,
+        "stop" : 1592362158720,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61cb87d0c28f079a.json",
+  "parameterValues" : [ ]
+}

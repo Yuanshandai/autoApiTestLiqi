@@ -1,0 +1,9 @@
+[32mINFO    [0m Test:__init__.py:90 ------------------------------------------------------
+[32mINFO    [0m Test:__init__.py:91 Func test_send_pushMiniPro in file: C:\liqi\autoApiTestLiqi\testcases\Test_case2_pushMiniPro.py
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:54 推小程序的接口地址是:http://172.16.117.151:8080/wechat-api/api/wechat/pushMiniPro
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:92 推小程序接口的入参是：{'operationType': 36, 'paramList': [{'account': 'dongfangyao', 'accountWechat': 'wxid_ss245739845', 'addParams': {'additionalProp1': '', 'additionalProp2': '', 'additionalProp3': ''}, 'additionalInfo': '高意向学员', 'guideSpeech': '同学你好', 'miniproType': 0, 'pictureImg': 'string', 'pictureTitle': '小程序', 'programId': 'ws123', 'programURL': 'http:hh123.com', 'recordId': '1592906393822196', 'stuWechat': 'wxid_1592904705109988', 'isFirstPriority': '0', 'notNeedCover': '1', 'notEnterCommonQueue': 'false'}], 'source': 'WE'}
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:93 开始发送推送小程序请求
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:95 ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '1592906393822196', 'isSuccess': 1, 'errorMsg': '成功'}]}
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:98 状态码的值是: 200
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:101 ===状态码正确======
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:102 flag的值是: 1

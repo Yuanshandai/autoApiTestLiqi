@@ -1,0 +1,6 @@
+[32mINFO    [0m Test:__init__.py:90 ------------------------------------------------------
+[32mINFO    [0m Test:__init__.py:91 Func test_mysql_wechat_push_minipro1 in file: C:\liqi\autoApiTestLiqi\testcases\Test_case2_pushMiniPro.py
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:280 数据库中account=’dongfangyao‘的最新一条推送小程序数据是(1272, '1592906862398716', 'dongfangyao', 'wxid_ss245739845', 'wxid_1592904705109988', 'lq1592904705109988', -2, '轮询到自动操作指令operationId:286 operationType:41 hasNewVersionfalse', 1, -1, 'WE', '3.1.13', '1440', '7.0.5', 'ws123', '同学你好', '小程序', 'string', 'http:hh123.com?additionalProp1=&additionalProp2=&additionalProp3=', 0, datetime.datetime(2020, 6, 23, 18, 7, 40), datetime.datetime(2020, 6, 23, 18, 7, 40), '高意向学员', 'android')
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:281 数据库中recordId是1592906862398716
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:282 插入的recordId是1592906862398716
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:285 数据库中state值正确

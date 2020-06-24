@@ -1,0 +1,3 @@
+INFO     Test:__init__.py:90 ------------------------------------------------------
+INFO     Test:__init__.py:91 Func test_login[case3] in file: C:\liqi\autoApiTestLiqi\testcases\Test_Login.py
+INFO     日志:Test_Login.py:39 用例执行成功

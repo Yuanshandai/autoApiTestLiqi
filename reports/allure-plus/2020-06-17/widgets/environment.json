@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "Test" ],
+  "name" : "Stand"
+}, {
+  "values" : [ "127.0.0.1/login" ],
+  "name" : "ApiUrl"
+}, {
+  "values" : [ "3.7.2" ],
+  "name" : "python.Version"
+}, {
+  "values" : [ "81.0.4044.92" ],
+  "name" : "Browser.Version"
+}, {
+  "values" : [ "Chrome" ],
+  "name" : "Browser"
+} ]

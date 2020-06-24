@@ -1,0 +1,83 @@
+INFO - ------------------------------------------------------
+INFO - Func test_login[case0] in file: C:\liqi\autoApiTestLiqi\testcases\Test_Login.py
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Python\lib\logging\__init__.py", line 1037, in emit
+    stream.write(msg + self.terminator)
+  File "C:\Python\lib\site-packages\_pytest\capture.py", line 424, in write
+    return self.buffer.write(s.encode(self.encoding, "replace"))
+ValueError: I/O operation on closed file
+Call stack:
+  File "C:/liqi/autoApiTestLiqi/run_test.py", line 28, in <module>
+    pytest.main(["-v", f"--alluredir={allure_path}"])
+  File "C:\Python\lib\site-packages\_pytest\config\__init__.py", line 125, in main
+    config=config
+  File "C:\Python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "C:\Python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Python\lib\site-packages\_pytest\main.py", line 240, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Python\lib\site-packages\_pytest\main.py", line 191, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Python\lib\site-packages\_pytest\main.py", line 247, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "C:\Python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Python\lib\site-packages\_pytest\main.py", line 272, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "C:\Python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Python\lib\site-packages\_pytest\runner.py", line 85, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Python\lib\site-packages\_pytest\runner.py", line 100, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "C:\Python\lib\site-packages\_pytest\runner.py", line 186, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Python\lib\site-packages\_pytest\runner.py", line 217, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Python\lib\site-packages\_pytest\runner.py", line 244, in from_call
+    result = func()
+  File "C:\Python\lib\site-packages\_pytest\runner.py", line 217, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "C:\Python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Python\lib\site-packages\_pytest\runner.py", line 135, in pytest_runtest_call
+    item.runtest()
+  File "C:\Python\lib\site-packages\_pytest\python.py", line 1477, in runtest
+    self.ihook.pytest_pyfunc_call(pyfuncitem=self)
+  File "C:\Python\lib\site-packages\pluggy\hooks.py", line 286, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 93, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "C:\Python\lib\site-packages\pluggy\manager.py", line 87, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "C:\Python\lib\site-packages\pluggy\callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Python\lib\site-packages\_pytest\python.py", line 182, in pytest_pyfunc_call
+    result = testfunction(**testargs)
+  File "C:\liqi\auto_api_test_liqi\testcases\Test_Login.py", line 39, in test_login
+Message: '用例执行成功'
+Arguments: ()

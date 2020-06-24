@@ -1,0 +1,136 @@
+{
+  "uid" : "f52a3e99b1e31d68",
+  "name" : "test_2",
+  "fullName" : "testcases.Test_3.TestEditPage#test_2",
+  "historyId" : "90bb3923b0d7172b4a5b7731403d7565",
+  "time" : {
+    "start" : 1592377040270,
+    "stop" : 1592377040270,
+    "duration" : 0
+  },
+  "description" : "用例描述：先登录，再去执行yyy",
+  "descriptionHtml" : "<p>用例描述：先登录，再去执行yyy</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1592377040269,
+      "stop" : 1592377040269,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592377039889,
+      "stop" : 1592377040066,
+      "duration" : 177
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1592377040269,
+      "stop" : 1592377040269,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "用例描述：先登录，再去执行yyy",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5c519679582a66ba",
+      "name" : "log",
+      "source" : "5c519679582a66ba.txt",
+      "type" : "text/plain",
+      "size" : 177
+    }, {
+      "uid" : "aca9a3ad076709b4",
+      "name" : "stdout",
+      "source" : "aca9a3ad076709b4.txt",
+      "type" : "text/plain",
+      "size" : 26
+    }, {
+      "uid" : "f245d11949b0a39d",
+      "name" : "stderr",
+      "source" : "f245d11949b0a39d.txt",
+      "type" : "text/plain",
+      "size" : 136
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "编辑页面"
+  }, {
+    "name" : "story",
+    "value" : "打开a页面"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_3"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEditPage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T9LGAR2"
+  }, {
+    "name" : "thread",
+    "value" : "97036-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.Test_3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f52a3e99b1e31d68.json",
+  "parameterValues" : [ ]
+}

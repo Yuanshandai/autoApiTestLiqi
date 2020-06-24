@@ -1,0 +1,3 @@
+INFO - ------------------------------------------------------
+INFO - Func test_login[case1] in file: C:\liqi\autoApiTestLiqi\testcases\Test_Login.py
+2020-06-17 10:49:18,811 - process: 86376 - Test_Login.py - 日志 - 39 - Test_Login - INFO - 用例执行成功

@@ -1,0 +1,106 @@
+{
+  "uid" : "6e890d2a6f5cd28c",
+  "name" : "test_send_http",
+  "fullName" : "testcases.Test_mark#test_send_http",
+  "historyId" : "1ed84245d295903e4f5b7a4b10932675",
+  "time" : {
+    "start" : 1592396716842,
+    "stop" : 1592396716842,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1592396716842,
+      "stop" : 1592396716842,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592396716345,
+      "stop" : 1592396716511,
+      "duration" : 166
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4117578f6757bf38",
+      "name" : "log",
+      "source" : "4117578f6757bf38.txt",
+      "type" : "text/plain",
+      "size" : 188
+    }, {
+      "uid" : "7a3f0b1a79f917dc",
+      "name" : "stderr",
+      "source" : "7a3f0b1a79f917dc.txt",
+      "type" : "text/plain",
+      "size" : 18119
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "webtest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_mark"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T9LGAR2"
+  }, {
+    "name" : "thread",
+    "value" : "102548-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.Test_mark"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "webtest" ]
+  },
+  "source" : "6e890d2a6f5cd28c.json",
+  "parameterValues" : [ ]
+}

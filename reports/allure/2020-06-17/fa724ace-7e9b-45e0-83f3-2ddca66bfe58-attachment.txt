@@ -1,0 +1,2 @@
+INFO - ------------------------------------------------------
+INFO - Func test_s1 in file: C:\liqi\autoApiTestLiqi\testcases\Test_1.py

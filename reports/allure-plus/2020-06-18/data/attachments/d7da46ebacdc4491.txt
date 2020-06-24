@@ -1,0 +1,2 @@
+INFO     Test:__init__.py:90 ------------------------------------------------------
+INFO     Test:__init__.py:91 Func test_repeat3[2-5] in file: C:\liqi\autoApiTestLiqi\testcases\Test_repeat.py

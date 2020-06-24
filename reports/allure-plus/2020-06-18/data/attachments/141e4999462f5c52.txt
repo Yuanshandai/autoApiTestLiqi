@@ -1,0 +1,2 @@
+INFO - ------------------------------------------------------
+INFO - Func test_repeat3[3-5] in file: C:\liqi\autoApiTestLiqi\testcases\Test_repeat.py

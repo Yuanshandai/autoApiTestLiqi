@@ -1,0 +1,260 @@
+2020-06-18 17:22:27,208 - process: 68328 - Test_case1_add_friend.py - 日志 - 33 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:22:27,240 - process: 68328 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 接口返回的结果：
+2020-06-18 17:23:05,319 - process: 80560 - Test_case1_add_friend.py - 日志 - 33 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:23:05,389 - process: 80560 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 接口返回的结果：
+2020-06-18 17:23:53,811 - process: 72664 - Test_case1_add_friend.py - 日志 - 33 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:23:53,856 - process: 72664 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 接口返回的结果：
+2020-06-18 17:26:21,100 - process: 112436 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:26:21,143 - process: 112436 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：<Response [200]>
+2020-06-18 17:26:59,822 - process: 116416 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:26:59,868 - process: 116416 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:27:30,780 - process: 22776 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:27:30,814 - process: 22776 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:30:15,934 - process: 24712 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:30:15,965 - process: 24712 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:32:55,447 - process: 112336 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:32:55,482 - process: 112336 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:34:18,020 - process: 79360 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:34:18,175 - process: 79360 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:34:35,105 - process: 115768 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:34:35,341 - process: 115768 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:34:49,443 - process: 80700 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:34:49,490 - process: 80700 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:35:00,913 - process: 93692 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:35:00,943 - process: 93692 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:35:25,316 - process: 117428 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:35:25,349 - process: 117428 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:36:14,821 - process: 92456 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:36:14,853 - process: 92456 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:36:40,022 - process: 113004 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:36:40,060 - process: 113004 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:39:11,152 - process: 106480 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:39:11,198 - process: 106480 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:39:54,502 - process: 4516 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:39:54,545 - process: 4516 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:49:10,615 - process: 11028 - Test_case1_add_friend.py - 日志 - 34 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:49:10,650 - process: 11028 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:49:10,651 - process: 11028 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 17:49:10,789 - process: 11028 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 17:53:46,973 - process: 27176 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:53:47,004 - process: 27176 - Test_case1_add_friend.py - 日志 - 37 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:53:47,005 - process: 27176 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 17:55:12,629 - process: 116432 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 17:55:12,664 - process: 116432 - Test_case1_add_friend.py - 日志 - 37 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 17:55:12,664 - process: 116432 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 17:55:12,664 - process: 116432 - Test_case1_add_friend.py - 日志 - 45 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:18:47,517 - process: 85484 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:18:47,604 - process: 85484 - Test_case1_add_friend.py - 日志 - 37 - Test_case1_add_friend - INFO - response:<Response [200]>
+2020-06-18 18:18:47,605 - process: 85484 - Test_case1_add_friend.py - 日志 - 38 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:18:47,607 - process: 85484 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:18:47,608 - process: 85484 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:20:28,470 - process: 7416 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:20:28,520 - process: 7416 - Test_case1_add_friend.py - 日志 - 37 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:20:28,522 - process: 7416 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:20:28,522 - process: 7416 - Test_case1_add_friend.py - 日志 - 45 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:21:18,311 - process: 38720 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:21:18,389 - process: 38720 - Test_case1_add_friend.py - 日志 - 37 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:21:18,390 - process: 38720 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:21:18,390 - process: 38720 - Test_case1_add_friend.py - 日志 - 45 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:21:40,908 - process: 29364 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:21:40,952 - process: 29364 - Test_case1_add_friend.py - 日志 - 37 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:21:40,952 - process: 29364 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:21:40,953 - process: 29364 - Test_case1_add_friend.py - 日志 - 45 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:22:54,507 - process: 42656 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:22:54,562 - process: 42656 - Test_case1_add_friend.py - 日志 - 37 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:22:54,562 - process: 42656 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:22:54,563 - process: 42656 - Test_case1_add_friend.py - 日志 - 45 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:24:28,140 - process: 58556 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:24:28,190 - process: 58556 - Test_case1_add_friend.py - 日志 - 37 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:24:28,190 - process: 58556 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:24:28,190 - process: 58556 - Test_case1_add_friend.py - 日志 - 45 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:24:51,492 - process: 68444 - Test_case1_add_friend.py - 日志 - 35 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:24:51,530 - process: 68444 - Test_case1_add_friend.py - 日志 - 37 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:24:51,531 - process: 68444 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:54:25,152 - process: 70800 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:54:25,187 - process: 70800 - Test_case1_add_friend.py - 日志 - 38 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:54:25,188 - process: 70800 - Test_case1_add_friend.py - 日志 - 40 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:54:25,407 - process: 70800 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:54:25,407 - process: 70800 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:55:30,960 - process: 93100 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:55:30,995 - process: 93100 - Test_case1_add_friend.py - 日志 - 38 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:55:30,995 - process: 93100 - Test_case1_add_friend.py - 日志 - 40 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:55:31,135 - process: 93100 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:55:31,135 - process: 93100 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:55:54,067 - process: 67636 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:55:54,412 - process: 67636 - Test_case1_add_friend.py - 日志 - 38 - Test_case1_add_friend - INFO - 接口响应结果：{"timestamp":"2020-06-18 10:55:54","status":400,"error":"Bad Request","message":"Required request body is missing: public com.shangde.spirit.domain.dto.ResDTO com.shangde.spirit.api.controller.WechatPushAutoOperationController.pushAutoApply(com.shangde.spirit.domain.dto.autoOperation.ReqPushAutoApplyDTO)","path":"/wechat-api/api/wechat/pushAutoApply"}
+2020-06-18 18:55:54,413 - process: 67636 - Test_case1_add_friend.py - 日志 - 40 - Test_case1_add_friend - INFO - 判断状态码:400
+2020-06-18 18:55:54,545 - process: 67636 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 判断状态码:400
+2020-06-18 18:55:54,545 - process: 67636 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:58:46,528 - process: 43700 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:58:46,558 - process: 43700 - Test_case1_add_friend.py - 日志 - 38 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:58:46,559 - process: 43700 - Test_case1_add_friend.py - 日志 - 40 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:58:46,686 - process: 43700 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:58:46,686 - process: 43700 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 18:59:59,536 - process: 74260 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 18:59:59,564 - process: 74260 - Test_case1_add_friend.py - 日志 - 38 - Test_case1_add_friend - INFO - 接口响应结果：{"flag":1,"message":"成功","data":[{"recordId":"4badfasdfsdr324dfsdfsdr3fsd","isSuccess":1,"errorMsg":"成功"}]}
+2020-06-18 18:59:59,565 - process: 74260 - Test_case1_add_friend.py - 日志 - 40 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:59:59,690 - process: 74260 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 18:59:59,690 - process: 74260 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:01:46,885 - process: 94112 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 19:01:46,920 - process: 94112 - Test_case1_add_friend.py - 日志 - 38 - Test_case1_add_friend - INFO - 接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:01:46,921 - process: 94112 - Test_case1_add_friend.py - 日志 - 40 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:01:47,054 - process: 94112 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:01:47,062 - process: 94112 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:02:30,374 - process: 106044 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 19:02:30,402 - process: 106044 - Test_case1_add_friend.py - 日志 - 38 - Test_case1_add_friend - INFO - 接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:02:30,403 - process: 106044 - Test_case1_add_friend.py - 日志 - 40 - Test_case1_add_friend - INFO - <class 'dict'>
+2020-06-18 19:02:30,404 - process: 106044 - Test_case1_add_friend.py - 日志 - 41 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:02:30,537 - process: 106044 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:02:30,537 - process: 106044 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:03:02,785 - process: 117060 - Test_case1_add_friend.py - 日志 - 36 - Test_case1_add_friend - INFO - 发送请求
+2020-06-18 19:03:02,812 - process: 117060 - Test_case1_add_friend.py - 日志 - 38 - Test_case1_add_friend - INFO - 接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:03:02,812 - process: 117060 - Test_case1_add_friend.py - 日志 - 40 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:03:02,948 - process: 117060 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:03:02,950 - process: 117060 - Test_case1_add_friend.py - 日志 - 43 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:25:20,916 - process: 17784 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - --------------发送加好友请求--------------------
+2020-06-18 19:25:20,960 - process: 17784 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:25:20,960 - process: 17784 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:25:21,230 - process: 17784 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:25:21,230 - process: 17784 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:27:11,290 - process: 63684 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - --------------发送加好友请求--------------------
+2020-06-18 19:27:11,323 - process: 63684 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:27:11,324 - process: 63684 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:27:11,449 - process: 63684 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:27:11,449 - process: 63684 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:28:53,810 - process: 109608 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:28:53,851 - process: 109608 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:28:53,851 - process: 109608 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:28:53,978 - process: 109608 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:28:53,985 - process: 109608 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:29:36,391 - process: 85316 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:29:36,423 - process: 85316 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:29:36,423 - process: 85316 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:29:36,549 - process: 85316 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:29:36,557 - process: 85316 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:29:57,824 - process: 46656 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:29:57,854 - process: 46656 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:29:57,855 - process: 46656 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:29:57,992 - process: 46656 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:29:57,992 - process: 46656 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:31:24,804 - process: 70800 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:31:24,836 - process: 70800 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:31:24,836 - process: 70800 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:31:24,961 - process: 70800 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:31:24,969 - process: 70800 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:31:59,513 - process: 95748 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:31:59,544 - process: 95748 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:31:59,544 - process: 95748 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:31:59,684 - process: 95748 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:31:59,691 - process: 95748 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:32:27,733 - process: 114532 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:32:27,769 - process: 114532 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:32:27,769 - process: 114532 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:32:53,538 - process: 11916 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:32:53,571 - process: 11916 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:32:53,572 - process: 11916 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:32:53,572 - process: 11916 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:32:53,572 - process: 11916 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:33:42,322 - process: 112568 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:33:42,365 - process: 112568 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:33:42,366 - process: 112568 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:33:42,366 - process: 112568 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:33:42,367 - process: 112568 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:34:21,275 - process: 103820 - Test_case1_add_friend.py - 日志 - 42 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:34:21,309 - process: 103820 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:34:21,309 - process: 103820 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:34:21,309 - process: 103820 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 判断状态码:200
+2020-06-18 19:34:21,317 - process: 103820 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 判断flag:
+2020-06-18 19:38:18,068 - process: 14756 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:38:18,106 - process: 14756 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:38:18,107 - process: 14756 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:38:18,107 - process: 14756 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - ===状态码正常======
+2020-06-18 19:38:18,113 - process: 14756 - Test_case1_add_friend.py - 日志 - 53 - Test_case1_add_friend - INFO - flag的值是: %s
+2020-06-18 19:39:27,016 - process: 83044 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:39:27,050 - process: 83044 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:39:27,050 - process: 83044 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:39:27,050 - process: 83044 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:39:27,050 - process: 83044 - Test_case1_add_friend.py - 日志 - 53 - Test_case1_add_friend - INFO - flag的值是: %s
+2020-06-18 19:39:47,251 - process: 84096 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:39:47,286 - process: 84096 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:39:47,288 - process: 84096 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:39:47,288 - process: 84096 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:39:47,291 - process: 84096 - Test_case1_add_friend.py - 日志 - 53 - Test_case1_add_friend - INFO - flag的值是: %s
+2020-06-18 19:40:35,472 - process: 14048 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:40:35,503 - process: 14048 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:40:35,503 - process: 14048 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:40:35,503 - process: 14048 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:40:35,511 - process: 14048 - Test_case1_add_friend.py - 日志 - 53 - Test_case1_add_friend - INFO - flag的值是: %s
+2020-06-18 19:40:57,330 - process: 65496 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:40:57,378 - process: 65496 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:40:57,380 - process: 65496 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:40:57,381 - process: 65496 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:40:57,382 - process: 65496 - Test_case1_add_friend.py - 日志 - 53 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 19:42:09,053 - process: 16556 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:42:09,084 - process: 16556 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:42:09,084 - process: 16556 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:42:09,084 - process: 16556 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:42:09,085 - process: 16556 - Test_case1_add_friend.py - 日志 - 53 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 19:42:33,315 - process: 114740 - Test_case1_add_friend.py - 日志 - 44 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:42:33,345 - process: 114740 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:42:33,345 - process: 114740 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:42:33,345 - process: 114740 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:42:33,353 - process: 114740 - Test_case1_add_friend.py - 日志 - 53 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 19:46:04,192 - process: 118660 - Test_case1_add_friend.py - 日志 - 45 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:46:04,235 - process: 118660 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:46:04,235 - process: 118660 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:46:04,235 - process: 118660 - Test_case1_add_friend.py - 日志 - 53 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:46:04,235 - process: 118660 - Test_case1_add_friend.py - 日志 - 54 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 19:47:23,419 - process: 116100 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:47:23,460 - process: 116100 - Test_case1_add_friend.py - 日志 - 48 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:47:23,460 - process: 116100 - Test_case1_add_friend.py - 日志 - 51 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:47:23,460 - process: 116100 - Test_case1_add_friend.py - 日志 - 54 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:47:23,461 - process: 116100 - Test_case1_add_friend.py - 日志 - 55 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 19:51:45,092 - process: 118524 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:51:45,127 - process: 118524 - Test_case1_add_friend.py - 日志 - 48 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:51:45,127 - process: 118524 - Test_case1_add_friend.py - 日志 - 51 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:51:45,128 - process: 118524 - Test_case1_add_friend.py - 日志 - 54 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:51:45,128 - process: 118524 - Test_case1_add_friend.py - 日志 - 55 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 19:53:53,571 - process: 90000 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:53:53,605 - process: 90000 - Test_case1_add_friend.py - 日志 - 48 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:53:53,605 - process: 90000 - Test_case1_add_friend.py - 日志 - 51 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:53:53,605 - process: 90000 - Test_case1_add_friend.py - 日志 - 54 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:53:53,605 - process: 90000 - Test_case1_add_friend.py - 日志 - 55 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 19:55:10,780 - process: 94156 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:55:10,809 - process: 94156 - Test_case1_add_friend.py - 日志 - 48 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:55:10,809 - process: 94156 - Test_case1_add_friend.py - 日志 - 51 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:55:10,809 - process: 94156 - Test_case1_add_friend.py - 日志 - 54 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:55:10,809 - process: 94156 - Test_case1_add_friend.py - 日志 - 55 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 19:56:06,532 - process: 12956 - Test_case1_add_friend.py - 日志 - 46 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 19:56:06,566 - process: 12956 - Test_case1_add_friend.py - 日志 - 48 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 19:56:06,566 - process: 12956 - Test_case1_add_friend.py - 日志 - 51 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 19:56:06,568 - process: 12956 - Test_case1_add_friend.py - 日志 - 54 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 19:56:06,568 - process: 12956 - Test_case1_add_friend.py - 日志 - 55 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 20:26:39,101 - process: 107944 - Test_case1_add_friend.py - 日志 - 48 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 20:26:39,140 - process: 107944 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 20:26:39,141 - process: 107944 - Test_case1_add_friend.py - 日志 - 53 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 20:26:39,142 - process: 107944 - Test_case1_add_friend.py - 日志 - 56 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 20:26:39,143 - process: 107944 - Test_case1_add_friend.py - 日志 - 57 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 20:28:50,519 - process: 114708 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 20:28:50,554 - process: 114708 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 20:28:50,554 - process: 114708 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 20:28:50,554 - process: 114708 - Test_case1_add_friend.py - 日志 - 55 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 20:28:50,555 - process: 114708 - Test_case1_add_friend.py - 日志 - 56 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 20:28:50,560 - process: 114708 - Test_case1_add_friend.py - 日志 - 96 - Test_case1_add_friend - INFO - =====开始请求心跳接口
+2020-06-18 20:29:15,668 - process: 73496 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 20:29:15,700 - process: 73496 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 20:29:15,701 - process: 73496 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 20:29:15,701 - process: 73496 - Test_case1_add_friend.py - 日志 - 55 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 20:29:15,703 - process: 73496 - Test_case1_add_friend.py - 日志 - 56 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 20:34:57,923 - process: 38500 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 20:35:53,320 - process: 102576 - Test_case1_add_friend.py - 日志 - 47 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 20:35:53,349 - process: 102576 - Test_case1_add_friend.py - 日志 - 49 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 20:35:53,350 - process: 102576 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 20:35:53,350 - process: 102576 - Test_case1_add_friend.py - 日志 - 55 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 20:35:53,350 - process: 102576 - Test_case1_add_friend.py - 日志 - 56 - Test_case1_add_friend - INFO - flag的值是: 1
+2020-06-18 20:40:01,760 - process: 49016 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 20:40:53,346 - process: 83244 - Test_case1_add_friend.py - 日志 - 50 - Test_case1_add_friend - INFO - 开始发送加好友请求
+2020-06-18 20:40:53,380 - process: 83244 - Test_case1_add_friend.py - 日志 - 52 - Test_case1_add_friend - INFO - ============接口响应结果：{'flag': 1, 'message': '成功', 'data': [{'recordId': '4badfasdfsdr324dfsdfsdr3fsd', 'isSuccess': 1, 'errorMsg': '成功'}]}
+2020-06-18 20:40:53,380 - process: 83244 - Test_case1_add_friend.py - 日志 - 55 - Test_case1_add_friend - INFO - 状态码的值是: 200
+2020-06-18 20:40:53,381 - process: 83244 - Test_case1_add_friend.py - 日志 - 58 - Test_case1_add_friend - INFO - ===状态码正确======
+2020-06-18 20:40:53,381 - process: 83244 - Test_case1_add_friend.py - 日志 - 59 - Test_case1_add_friend - INFO - flag的值是: 1

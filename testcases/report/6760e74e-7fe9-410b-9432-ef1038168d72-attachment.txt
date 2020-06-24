@@ -1,0 +1,8 @@
+[32mINFO    [0m Test:__init__.py:90 ------------------------------------------------------
+[32mINFO    [0m Test:__init__.py:91 Func test_operationCallback in file: C:\liqi\autoApiTestLiqi\testcases\Test_case2_pushMiniPro.py
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:232 operationCallback接口的地址是:http://172.16.117.151:8080/wechat-api/api/wechat/operationCallback
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:249 operationCallback接口的入参是：{'desc': '轮询到自动操作指令operationId:286 operationType:41 hasNewVersionfalse', 'operationId': 1271, 'operationType': 36, 'state': -2, 'wechatId': 'wxid_ss245739845', 'versionName': '3.1.13', 'versionCode': '97', 'wechatAccount': 'wxid_ss245739845', 'wechatVersion': '7.0.5', 'wechatVersionCode': '1440', 'source': 'app_root', 'loginAccount': '${account}', 'phoneDeviceId': '2cd6f7c3b0a15b2f', 'channel': 'platform'}
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:250 =====开始请求operationCallback接口
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:252 ============接口响应结果：{'flag': 1, 'message': '', 'data': ''}
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:255 状态码的值是: 200
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:258 ===状态码正确======

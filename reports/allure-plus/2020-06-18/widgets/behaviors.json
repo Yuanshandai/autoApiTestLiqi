@@ -1,0 +1,26 @@
+{
+  "total" : 21,
+  "items" : [ {
+    "uid" : "986d48f2917e80999e9ac302e870dada",
+    "name" : "这是模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3e6ebb7283af629a2041f3f44bb2b5ef",
+    "name" : "编辑页面",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

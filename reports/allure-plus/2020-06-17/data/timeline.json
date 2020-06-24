@@ -1,0 +1,4771 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-T9LGAR2",
+    "children" : [ {
+      "name" : "58980-MainThread",
+      "children" : [ {
+        "name" : "test_login[case2]",
+        "uid" : "b1dfd29491379fa9",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115035,
+          "stop" : 1592377115035,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "27e44b7b97cf6cae",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119234,
+          "stop" : 1592377119236,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "294e7790a67236ed",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119211,
+          "stop" : 1592377119211,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "29959a17d74f2b45",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115027,
+          "stop" : 1592377115027,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "b91ba1d8f46cabb",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119216,
+          "stop" : 1592377119216,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "fea8c09a829fb4e9",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119241,
+          "stop" : 1592377119244,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "75c4ba99987c9dfa",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377114791,
+          "stop" : 1592377114791,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "4105d1b9ab0177a6",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115019,
+          "stop" : 1592377115019,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "dcb2fe8c038d55af",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377114912,
+          "stop" : 1592377114912,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "a5c9cedcb39a0cbe",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377114962,
+          "stop" : 1592377114962,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "d4ee87b66f26f49d",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115001,
+          "stop" : 1592377115001,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "1600ce33c913e57e",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115027,
+          "stop" : 1592377115027,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "95e556b84f3a83a4",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115035,
+          "stop" : 1592377115035,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "b4b64623a3768e77",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377115044,
+          "stop" : 1592377115044,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "1af92a5478980394",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119228,
+          "stop" : 1592377119229,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "69081308eabc9cd1",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115009,
+          "stop" : 1592377115010,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "6516a0adfa31dae2",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115009,
+          "stop" : 1592377115010,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "69a724d5ddce4ed8",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377114955,
+          "stop" : 1592377114955,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "ede72afc4d8022b9",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119222,
+          "stop" : 1592377119223,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "b73d8720de9b360d",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119249,
+          "stop" : 1592377119251,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "fe66dd31fbd060de",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119256,
+          "stop" : 1592377119259,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "abc49899e9faba71",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377115044,
+          "stop" : 1592377115044,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "842ebc2a4f4835",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115019,
+          "stop" : 1592377115019,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "7a4cb485fcfbd09a",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377114948,
+          "stop" : 1592377114948,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "4b5d0589a0112c40",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377114912,
+          "stop" : 1592377114912,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "8e1bd9baa5e24226",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377114962,
+          "stop" : 1592377114962,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "76d864f3ad9ef912",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119187,
+          "stop" : 1592377119187,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "c4fa0a1a92443120",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377114948,
+          "stop" : 1592377114948,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "2cb0af1f2abe75d8",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377115001,
+          "stop" : 1592377115001,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "9fe37b70e3198871",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119206,
+          "stop" : 1592377119206,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "953ddb318a168cc3",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377114955,
+          "stop" : 1592377114955,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "512233c1fec6cc67",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377119193,
+          "stop" : 1592377119200,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "fd58fe944bcfcc94",
+        "parentUid" : "e0cb62593f77d0ac2f75a74791f14eb8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377114791,
+          "stop" : 1592377114791,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e0cb62593f77d0ac2f75a74791f14eb8"
+    }, {
+      "name" : "86376-MainThread",
+      "children" : [ {
+        "name" : "test_login[case0]",
+        "uid" : "f4dacff423ff8a88",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159524,
+          "stop" : 1592362159530,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "bcdb295fc9e51d8f",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159560,
+          "stop" : 1592362159565,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "88591d5023d256ac",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158799,
+          "stop" : 1592362158799,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "863af5896c69b8d8",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159503,
+          "stop" : 1592362159504,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "a920f7df17c8de26",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159485,
+          "stop" : 1592362159486,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "decba699b0d56e49",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159280,
+          "stop" : 1592362159280,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "afa8574f2dec566c",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158696,
+          "stop" : 1592362158697,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "c0a358973b1b385b",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158708,
+          "stop" : 1592362158708,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "47e2970ea24ec963",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158822,
+          "stop" : 1592362158822,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "7f73fd997246b3a0",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158773,
+          "stop" : 1592362158774,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "a6ed5d6ac3a2264f",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159475,
+          "stop" : 1592362159476,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "95e0292107484fb2",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158786,
+          "stop" : 1592362158786,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "36317af1853acaeb",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158811,
+          "stop" : 1592362158811,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "f087a01553e68bf4",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592362158638,
+          "stop" : 1592362158639,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "63eb91134e0e9e5e",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592362158638,
+          "stop" : 1592362158639,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "2baf7af1587c2c80",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158799,
+          "stop" : 1592362158799,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "1734c9021a6de112",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592362158449,
+          "stop" : 1592362158450,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "10a0dcfdb6ddf183",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592362158720,
+          "stop" : 1592362158720,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "dd62326b85d7bc73",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159512,
+          "stop" : 1592362159513,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "ac410ad33f9587df",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592362158833,
+          "stop" : 1592362158834,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "eb650ce3dfd75956",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592362158449,
+          "stop" : 1592362158450,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "70e2d601c82dc9d3",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158773,
+          "stop" : 1592362158774,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "c4ae53ccf8dc9f53",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159577,
+          "stop" : 1592362159582,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "56380bb1adefc1ef",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158786,
+          "stop" : 1592362158786,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "c0869da5b1fd9f97",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159542,
+          "stop" : 1592362159548,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "9613c0d8bef40f9d",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158811,
+          "stop" : 1592362158811,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "844f891f9000fc38",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158696,
+          "stop" : 1592362158697,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "b5f9c0bd2c192858",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592362158833,
+          "stop" : 1592362158834,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "47a966e60b9795ab",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592362158720,
+          "stop" : 1592362158720,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "a091e0d9cf4d83e0",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158822,
+          "stop" : 1592362158822,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "c4a67ac97593c793",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159494,
+          "stop" : 1592362159494,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "cb64bd143572d0d0",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362159294,
+          "stop" : 1592362159464,
+          "duration" : 170
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "ef0b4f2b8aa8fcb2",
+        "parentUid" : "3217cb69bcecd6b465e2cf7cebd00b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592362158708,
+          "stop" : 1592362158708,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3217cb69bcecd6b465e2cf7cebd00b03"
+    }, {
+      "name" : "97036-MainThread",
+      "children" : [ {
+        "name" : "test_login[case2]",
+        "uid" : "d0a9249b36de9bbe",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034548,
+          "stop" : 1592377034549,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "57964084bac2aa9e",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034518,
+          "stop" : 1592377034518,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "c88603471bcd4273",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377034389,
+          "stop" : 1592377034390,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "17b2c332ab92f3d5",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034548,
+          "stop" : 1592377034549,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "cd28edce7fddb8ab",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034450,
+          "stop" : 1592377034450,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "9612a071df921161",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377034560,
+          "stop" : 1592377034560,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "7377aef0e427ca66",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040078,
+          "stop" : 1592377040224,
+          "duration" : 146
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "3fdb5ecc1d9b02f9",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377034219,
+          "stop" : 1592377034220,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "2ef9d1ce5420514",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377034219,
+          "stop" : 1592377034220,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "bad990d97e99d4f1",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377034459,
+          "stop" : 1592377034460,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "6b8ea5b1185b1c0",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034529,
+          "stop" : 1592377034530,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "3901049a9b9c9a6d",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034506,
+          "stop" : 1592377034507,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "c542291d9108dafc",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034518,
+          "stop" : 1592377034518,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "8f332c287630ebf5",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034450,
+          "stop" : 1592377034450,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "54cb491257c07fb",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040307,
+          "stop" : 1592377040313,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "bce8556e90e9f359",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040067,
+          "stop" : 1592377040068,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "6cd42db55575723b",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377034560,
+          "stop" : 1592377034560,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "19293784ca8d8896",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034539,
+          "stop" : 1592377034539,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "1b3f77f1742124e7",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034539,
+          "stop" : 1592377034539,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "688e3f231ea7e430",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040261,
+          "stop" : 1592377040262,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "dc576d77ea115fa7",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034506,
+          "stop" : 1592377034507,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "4f96f2f59cc8d682",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040251,
+          "stop" : 1592377040252,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "8ce33924604916e4",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377034459,
+          "stop" : 1592377034460,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "7c919be7d86c7a79",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034440,
+          "stop" : 1592377034441,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "eb6d391af6316837",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034440,
+          "stop" : 1592377034441,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "7b0e423dded42c3a",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592377034389,
+          "stop" : 1592377034390,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "4478c7d0e5848987",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377034529,
+          "stop" : 1592377034530,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "c381e67a8a130be8",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040288,
+          "stop" : 1592377040291,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "f52a3e99b1e31d68",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040270,
+          "stop" : 1592377040270,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "c6533b0c84890043",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040277,
+          "stop" : 1592377040281,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "c941b1345ef73344",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040298,
+          "stop" : 1592377040301,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "e31033ae16991786",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040244,
+          "stop" : 1592377040244,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "214b8a0bd7c5d90",
+        "parentUid" : "c018a34b9b00b1d03e5e21422eeb0f07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592377040234,
+          "stop" : 1592377040235,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c018a34b9b00b1d03e5e21422eeb0f07"
+    }, {
+      "name" : "95932-MainThread",
+      "children" : [ {
+        "name" : "test_send_http",
+        "uid" : "35abfe6a47e057c7",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101903,
+          "stop" : 1592398101903,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "44423b478fa88866",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101832,
+          "stop" : 1592398101833,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "c76abedbe42d0742",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101892,
+          "stop" : 1592398101892,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "513d20deb03746b1",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101860,
+          "stop" : 1592398101861,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "1d8fd4efcaf42302",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101881,
+          "stop" : 1592398101882,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_something_quick",
+        "uid" : "ddfc5b1d3e622ead",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101912,
+          "stop" : 1592398101912,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "8d388be324138947",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101817,
+          "stop" : 1592398101818,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "4bf2697ebc889e1e",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101824,
+          "stop" : 1592398101825,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "d67b6858dc43b53a",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101869,
+          "stop" : 1592398101869,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_another",
+        "uid" : "b0fdaf31dfe4ce24",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101921,
+          "stop" : 1592398101921,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "837e25077c6c213c",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101841,
+          "stop" : 1592398101842,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "3cd2ae9ad078f9bf",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101851,
+          "stop" : 1592398101851,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "3dc5a38ae659f880",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101799,
+          "stop" : 1592398101800,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_method",
+        "uid" : "1661d642d85612b1",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101928,
+          "stop" : 1592398101928,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "56334a86ac2402b4",
+        "parentUid" : "cd90347ef7de3c34ffdde4a36ea4d98e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101808,
+          "stop" : 1592398101809,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd90347ef7de3c34ffdde4a36ea4d98e"
+    }, {
+      "name" : "67580-MainThread",
+      "children" : [ {
+        "name" : "test_s1",
+        "uid" : "c9de7d2357b7de98",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341737,
+          "stop" : 1592380341738,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "84ddeeffc8b6a5a2",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380341542,
+          "stop" : 1592380341543,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "6987975c23d8e92b",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341819,
+          "stop" : 1592380341820,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "7f1bff4315667f64",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345832,
+          "stop" : 1592380345835,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "179d2cf16f9540aa",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345730,
+          "stop" : 1592380345790,
+          "duration" : 60
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "2c4fec0e97221a5d",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341796,
+          "stop" : 1592380341796,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "592ff8361fee4dc3",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341812,
+          "stop" : 1592380341812,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "d5a6fab569e101a5",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380341751,
+          "stop" : 1592380341751,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "ecbf43a2b03c524",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341819,
+          "stop" : 1592380341820,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "116a0272ea21ed",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345847,
+          "stop" : 1592380345850,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "d704a63f59b7d5c1",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341744,
+          "stop" : 1592380341744,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "ca7711329300e82c",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341805,
+          "stop" : 1592380341805,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "956896f51e02f737",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341787,
+          "stop" : 1592380341787,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "ec718c2c4b4f2f77",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345723,
+          "stop" : 1592380345723,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "cfc1ecc286edd5",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341812,
+          "stop" : 1592380341812,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "b64de8924328e39a",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380341751,
+          "stop" : 1592380341751,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "d9c538911f44ecda",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345806,
+          "stop" : 1592380345807,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "7d0f2a067a38d20e",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341737,
+          "stop" : 1592380341738,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "80600fa8c3132834",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345814,
+          "stop" : 1592380345814,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "eb996afa1b8b4a00",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341805,
+          "stop" : 1592380341805,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "6187d0eef57007cb",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345819,
+          "stop" : 1592380345820,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "2de975885803933f",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380341700,
+          "stop" : 1592380341701,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "ee8986a172b4142e",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341744,
+          "stop" : 1592380341744,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "4cc4262dd737125b",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345801,
+          "stop" : 1592380345802,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "c1055e30a4a9f12d",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380341826,
+          "stop" : 1592380341827,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "85b53da84163e95d",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345825,
+          "stop" : 1592380345828,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "83550c02bc3a8f55",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380341700,
+          "stop" : 1592380341701,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "581f3b8fdb8ef074",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345797,
+          "stop" : 1592380345797,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "9b5db0769d49c801",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380341826,
+          "stop" : 1592380341827,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "2fccff98fe52268c",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341796,
+          "stop" : 1592380341796,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "f82661e1adeec17",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380345840,
+          "stop" : 1592380345842,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "9fc20bbb21ae00e1",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380341787,
+          "stop" : 1592380341787,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "3381be265f1fd7df",
+        "parentUid" : "fd6e570669e7f5345ae40cbebea2c06d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380341542,
+          "stop" : 1592380341543,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd6e570669e7f5345ae40cbebea2c06d"
+    }, {
+      "name" : "111036-MainThread",
+      "children" : [ {
+        "name" : "test_s1",
+        "uid" : "9791a923b079e2e9",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387268,
+          "stop" : 1592364387268,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "5bfd26bcba9e1aba",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387327,
+          "stop" : 1592364387327,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "7c34b6dc16ca1e31",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592364387230,
+          "stop" : 1592364387233,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "ac41240ab827cbf0",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387772,
+          "stop" : 1592364387778,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "a082c74de7ad4242",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387351,
+          "stop" : 1592364387351,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "ab39559c67e4e29a",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387327,
+          "stop" : 1592364387327,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "6dc5851765a189",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387275,
+          "stop" : 1592364387275,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "7db17fa8bcd0032c",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592364387230,
+          "stop" : 1592364387233,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "7730036c542b26e7",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387343,
+          "stop" : 1592364387344,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "d58f259a8a7a05cb",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387351,
+          "stop" : 1592364387351,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "bf7fdaa41f3b742e",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387335,
+          "stop" : 1592364387336,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "57761abadbb3a16e",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387733,
+          "stop" : 1592364387736,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "ae9d762d1586abfd",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592364387114,
+          "stop" : 1592364387115,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "399a6c348be4229d",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387318,
+          "stop" : 1592364387319,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "5ac91cc7a27d3618",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387696,
+          "stop" : 1592364387696,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "2a4d041d1ca0f829",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387666,
+          "stop" : 1592364387667,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "d26268d2e339cf3",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387760,
+          "stop" : 1592364387764,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "a61216d51f744691",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387687,
+          "stop" : 1592364387688,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "877c1878f5674fdc",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592364387358,
+          "stop" : 1592364387358,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "bf08d643bc630dcb",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387722,
+          "stop" : 1592364387723,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "110cbcacd8264688",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387715,
+          "stop" : 1592364387715,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "3f5dfdc623a4fae5",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592364387358,
+          "stop" : 1592364387358,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "669744cb33fc5daa",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387343,
+          "stop" : 1592364387344,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "cff6e38bae470770",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387268,
+          "stop" : 1592364387268,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "5059703b1c36a1a1",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592364387114,
+          "stop" : 1592364387115,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "c3201487acdc35aa",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387335,
+          "stop" : 1592364387336,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "b54b08776432fa8d",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387318,
+          "stop" : 1592364387319,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "e5f274730e0de9b5",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592364387282,
+          "stop" : 1592364387282,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "a7032d24b54f10cf",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592364387282,
+          "stop" : 1592364387282,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "98b0e95195c1b6bd",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387747,
+          "stop" : 1592364387750,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "3631c006625bbeb4",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387672,
+          "stop" : 1592364387681,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "606bd4b8b672453b",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387275,
+          "stop" : 1592364387275,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "741b819fe58bdd45",
+        "parentUid" : "cd589bf73509780b71ada0b39a5f4147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592364387702,
+          "stop" : 1592364387702,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd589bf73509780b71ada0b39a5f4147"
+    }, {
+      "name" : "102548-MainThread",
+      "children" : [ {
+        "name" : "test_method",
+        "uid" : "e23a6710a980de71",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396716880,
+          "stop" : 1592396716880,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "ec49c28222da22d2",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716816,
+          "stop" : 1592396716816,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_send_http",
+        "uid" : "7ec8e18df8a8cd43",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716842,
+          "stop" : 1592396716842,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_another",
+        "uid" : "29c8e020d45644d",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716867,
+          "stop" : 1592396716867,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "ec217b134a259131",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716774,
+          "stop" : 1592396716774,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "edb7c1fdba570113",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716758,
+          "stop" : 1592396716759,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "cee55e51c1810c51",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716802,
+          "stop" : 1592396716803,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "5c1fd7cd55e0ac8c",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716694,
+          "stop" : 1592396716694,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "bdd7ab4e967c35de",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716680,
+          "stop" : 1592396716681,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "cce4846fce12043f",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716789,
+          "stop" : 1592396716789,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "53f770adb2e08e43",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716829,
+          "stop" : 1592396716829,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "62b3fb04c277196e",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396716638,
+          "stop" : 1592396716639,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "29407499821a7253",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396716513,
+          "stop" : 1592396716514,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "4b8988fefefb2f79",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396716712,
+          "stop" : 1592396716712,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_something_quick",
+        "uid" : "6dcb9b3d76672860",
+        "parentUid" : "a749991376d7624d240ea243dab80e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396716854,
+          "stop" : 1592396716854,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a749991376d7624d240ea243dab80e3b"
+    }, {
+      "name" : "109716-MainThread",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "e9daec3bb682ba87",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507575,
+          "stop" : 1592380507576,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "7543c4760fc99f0d",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512285,
+          "stop" : 1592380512286,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "a521e32283606859",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380507363,
+          "stop" : 1592380507364,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "8246b7fd3971b2bf",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507584,
+          "stop" : 1592380507585,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "6f129733025a691f",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507602,
+          "stop" : 1592380507603,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "8365e62de99572c0",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512304,
+          "stop" : 1592380512306,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "36e5e25980a3815e",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512319,
+          "stop" : 1592380512323,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "e2c5aff8ffd6ad53",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512297,
+          "stop" : 1592380512299,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "d5514aa8b70d4a1a",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507584,
+          "stop" : 1592380507585,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "65c2d73fa3342c31",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380507481,
+          "stop" : 1592380507482,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "ac289801be9738b",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507575,
+          "stop" : 1592380507576,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "4167b5cf041bf4bf",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507602,
+          "stop" : 1592380507603,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "1b5446d429852aee",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507567,
+          "stop" : 1592380507567,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "d6c88f8c554fd4bb",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512274,
+          "stop" : 1592380512275,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "2596520ad03e99f0",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380507610,
+          "stop" : 1592380507611,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "fcb8d7e1977f5e47",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512270,
+          "stop" : 1592380512270,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "c5495d346e25cf84",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512291,
+          "stop" : 1592380512292,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "6afab0f880b2bccb",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380507532,
+          "stop" : 1592380507533,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "f01bef0883ae6c78",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507526,
+          "stop" : 1592380507526,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "8b962d7b14ea0341",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507595,
+          "stop" : 1592380507595,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "6eafa39993122c94",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512311,
+          "stop" : 1592380512314,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "e0f243bfbb7a0546",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512258,
+          "stop" : 1592380512263,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "328f829ff48b2e13",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507595,
+          "stop" : 1592380507595,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "bbbac07c24bc50dd",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507519,
+          "stop" : 1592380507519,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "493e7b3acac4baaf",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512251,
+          "stop" : 1592380512251,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "dc99703b4832ab25",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380507481,
+          "stop" : 1592380507482,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "57041f2436b99eb0",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380507363,
+          "stop" : 1592380507364,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "cfa92142d3e229d3",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380512280,
+          "stop" : 1592380512280,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "978682e40b1c52ef",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380507532,
+          "stop" : 1592380507533,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "efec3971b2bc52b1",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507519,
+          "stop" : 1592380507519,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "d952ca1de5a89fd2",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507567,
+          "stop" : 1592380507567,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "eac0aa93b189aab1",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380507610,
+          "stop" : 1592380507611,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "c5f6c875fa825e75",
+        "parentUid" : "4decdbf30bfc5367db13b185bb6e3f46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380507526,
+          "stop" : 1592380507526,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4decdbf30bfc5367db13b185bb6e3f46"
+    }, {
+      "name" : "86268-MainThread",
+      "children" : [ {
+        "name" : "test_send_http",
+        "uid" : "984c368657b256da",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101987,
+          "stop" : 1592398101987,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "1f56455da4b23aad",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101925,
+          "stop" : 1592398101926,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "705dc85b65460311",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101913,
+          "stop" : 1592398101913,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "dcbd7c01c5c61b0a",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101903,
+          "stop" : 1592398101903,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_another",
+        "uid" : "4e3783c50ae08857",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102005,
+          "stop" : 1592398102005,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "49121417769daecd",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101867,
+          "stop" : 1592398101868,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "6994ba8200b13803",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101977,
+          "stop" : 1592398101978,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "87eebb9b24db9516",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101946,
+          "stop" : 1592398101948,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "ce4eebcc0a40fe3c",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101968,
+          "stop" : 1592398101969,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "38e990737ec08561",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101935,
+          "stop" : 1592398101935,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "4e27956af359c081",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101880,
+          "stop" : 1592398101882,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_something_quick",
+        "uid" : "d2ce6f50f29953b0",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101995,
+          "stop" : 1592398101996,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_method",
+        "uid" : "9cba5bf252851af8",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102015,
+          "stop" : 1592398102015,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "7cac7c4d624efdd3",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101957,
+          "stop" : 1592398101959,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "fe9c94bdda1d078",
+        "parentUid" : "a838f37018bbed788ce8523fa7cf3795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398101894,
+          "stop" : 1592398101894,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a838f37018bbed788ce8523fa7cf3795"
+    }, {
+      "name" : "14948-MainThread",
+      "children" : [ {
+        "name" : "test_s3",
+        "uid" : "bb0977ed906cf358",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748157,
+          "stop" : 1592380748158,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "e2a40006b499bdba",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748183,
+          "stop" : 1592380748185,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "131b919082d0eaf2",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743181,
+          "stop" : 1592380743182,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "730d5b51166c2b",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380743010,
+          "stop" : 1592380743010,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "11fe8bcf45182421",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380743010,
+          "stop" : 1592380743010,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "b055ced5bb5843bf",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380743129,
+          "stop" : 1592380743129,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "7bda9c3104fe75d7",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748197,
+          "stop" : 1592380748200,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "539de5da5bc357ec",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743258,
+          "stop" : 1592380743258,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "7fb99458eebd650e",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743238,
+          "stop" : 1592380743239,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "8adc78e03f07df7c",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748190,
+          "stop" : 1592380748192,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "3634d7f6e2b1412f",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748134,
+          "stop" : 1592380748141,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "41e15c4f63261b8f",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748127,
+          "stop" : 1592380748128,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "faa0b7b32a6cfc40",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743181,
+          "stop" : 1592380743182,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "8a83524579f3cb31",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748175,
+          "stop" : 1592380748178,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "4395a8989e23c29e",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743248,
+          "stop" : 1592380743249,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "c7793e5e2ffc7269",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380743191,
+          "stop" : 1592380743192,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "38d681cd55c228ce",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380743129,
+          "stop" : 1592380743129,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "a371366528d25820",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748169,
+          "stop" : 1592380748170,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "25f8c6fdfd488737",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748163,
+          "stop" : 1592380748164,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "fb5e68bd8b41af3f",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743266,
+          "stop" : 1592380743266,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "9712c6be1d5584f7",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743238,
+          "stop" : 1592380743239,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "122868fc6747637",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380743191,
+          "stop" : 1592380743192,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "9f64b6c81903e5e0",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743172,
+          "stop" : 1592380743172,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "7900fad3d11fe059",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380743281,
+          "stop" : 1592380743282,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "4e4a2df3ce5dace2",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743258,
+          "stop" : 1592380743258,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "4cc87a674495e0b4",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743274,
+          "stop" : 1592380743274,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "444a3f096c827ec9",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743266,
+          "stop" : 1592380743266,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "170f4f853c050260",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743248,
+          "stop" : 1592380743249,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "e34a9e008ad1ae2",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743172,
+          "stop" : 1592380743172,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "b60bc2ed3b648b3",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380743274,
+          "stop" : 1592380743274,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "be999eca56dad310",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748153,
+          "stop" : 1592380748153,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "b2ce94a6c488ab58",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592380743281,
+          "stop" : 1592380743282,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "bfe6004a6da2265e",
+        "parentUid" : "7a74d5ff9c308d63fed20904b38ee317",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380748146,
+          "stop" : 1592380748147,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a74d5ff9c308d63fed20904b38ee317"
+    }, {
+      "name" : "112284-MainThread",
+      "children" : [ {
+        "name" : "test_send_http",
+        "uid" : "2334b14a1fa22e78",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067215,
+          "stop" : 1592398067215,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "6e669de8649286d0",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067114,
+          "stop" : 1592398067115,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_something_quick",
+        "uid" : "597a7e5e22eb60e",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067225,
+          "stop" : 1592398067226,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "8daf11709355a808",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067169,
+          "stop" : 1592398067170,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "15da14801419dabc",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067203,
+          "stop" : 1592398067204,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "e2ab963ffc43a2bb",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067192,
+          "stop" : 1592398067192,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "3d9cd30a51cf8d14",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067147,
+          "stop" : 1592398067148,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_another",
+        "uid" : "35959a5334d80339",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067236,
+          "stop" : 1592398067236,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "d539e431d53ddaff",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067101,
+          "stop" : 1592398067102,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "45d8a03ececc3377",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067089,
+          "stop" : 1592398067089,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "9cbe24d1dc7a2d78",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067125,
+          "stop" : 1592398067125,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_method",
+        "uid" : "520fa81ec4d1d06d",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067245,
+          "stop" : 1592398067246,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "ae129df541b2add",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067181,
+          "stop" : 1592398067181,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "552560271c0de944",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067158,
+          "stop" : 1592398067159,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "c5a15f40882a91b1",
+        "parentUid" : "6f809a1611ba2d17d4131e4ae5f6c4a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398067136,
+          "stop" : 1592398067136,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6f809a1611ba2d17d4131e4ae5f6c4a4"
+    }, {
+      "name" : "66496-MainThread",
+      "children" : [ {
+        "name" : "test_login[case3]",
+        "uid" : "303fd37a142faab9",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102208,
+          "stop" : 1592398102209,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_1",
+        "uid" : "37aad482fce61acd",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102154,
+          "stop" : 1592398102155,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "7abea4b24d072c80",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102186,
+          "stop" : 1592398102187,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "5686b129a50292d9",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102114,
+          "stop" : 1592398102115,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "3fcd5a55af07ef5a",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102133,
+          "stop" : 1592398102133,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "61cb87d0c28f079a",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102142,
+          "stop" : 1592398102143,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_method",
+        "uid" : "9ef495d2637f018a",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102244,
+          "stop" : 1592398102244,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "ed4f885017ca8920",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102125,
+          "stop" : 1592398102125,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_something_quick",
+        "uid" : "f265581d0a32a91a",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102227,
+          "stop" : 1592398102227,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "1c0e0bb6f9a567da",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102197,
+          "stop" : 1592398102198,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "5d626517c93094a9",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102165,
+          "stop" : 1592398102165,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_send_http",
+        "uid" : "3f32dbea4675b236",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102217,
+          "stop" : 1592398102217,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "dd14d10196939def",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102175,
+          "stop" : 1592398102175,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_another",
+        "uid" : "354bf2bdfd05302a",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102235,
+          "stop" : 1592398102236,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "9947d0a9f6449dd3",
+        "parentUid" : "725f615e3f2982b93e3974bdbf975125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102103,
+          "stop" : 1592398102104,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "725f615e3f2982b93e3974bdbf975125"
+    }, {
+      "name" : "114600-MainThread",
+      "children" : [ {
+        "name" : "test_s2",
+        "uid" : "674e5879c4f0c164",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692690,
+          "stop" : 1592396692691,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "f33473c55c77facf",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684846,
+          "stop" : 1592396684846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_method",
+        "uid" : "a40fd8aaa4d74fea",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396684882,
+          "stop" : 1592396684882,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "ceef0bf6774fe61c",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396684722,
+          "stop" : 1592396684723,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "86edddc1fc9b3ce6",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692549,
+          "stop" : 1592396692550,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "35e88a10696b24e6",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396684775,
+          "stop" : 1592396684775,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "e700e1a83042010b",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692712,
+          "stop" : 1592396692712,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "85af9d6519e1eab4",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692745,
+          "stop" : 1592396692748,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_2",
+        "uid" : "7a9c66017a760314",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684822,
+          "stop" : 1592396684822,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "c90916ef5cfafe72",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692728,
+          "stop" : 1592396692730,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "c0e3c2d3013fd9c",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684846,
+          "stop" : 1592396684846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_send_http",
+        "uid" : "18e283bf79aa35ed",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684863,
+          "stop" : 1592396684863,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_something_quick",
+        "uid" : "f17f2df79c6b2c2a",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692760,
+          "stop" : 1592396692760,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "aa03493d9854c829",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684839,
+          "stop" : 1592396684839,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "30f21e8cc91d0a1d",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396684775,
+          "stop" : 1592396684775,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "f740697804a0e8e",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396684568,
+          "stop" : 1592396684569,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_method",
+        "uid" : "31b31bcfa5f63ef3",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692770,
+          "stop" : 1592396692770,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_something_quick",
+        "uid" : "ce00450dfe806afb",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684869,
+          "stop" : 1592396684869,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "86f7158ddc794ede",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692683,
+          "stop" : 1592396692683,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "3f6bfb2d9f4672d7",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684839,
+          "stop" : 1592396684839,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "6f3e01e0686759f4",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396684722,
+          "stop" : 1592396684723,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_method",
+        "uid" : "bc9661a73d1ed3f6",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396684882,
+          "stop" : 1592396684882,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "e5b80db7ef8ef107",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684822,
+          "stop" : 1592396684822,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "bb99831680a5db9f",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684760,
+          "stop" : 1592396684760,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "4d8f04abc0dc89e4",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692558,
+          "stop" : 1592396692675,
+          "duration" : 117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_something_quick",
+        "uid" : "a99f3a1a3371ab02",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684869,
+          "stop" : 1592396684869,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_another",
+        "uid" : "37d70e6cc09c7c8b",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692765,
+          "stop" : 1592396692765,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "da5a493d3af7549b",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684813,
+          "stop" : 1592396684813,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "3a77b5ffbfb3655e",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692704,
+          "stop" : 1592396692704,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "dbe58fc25fe9fd85",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684767,
+          "stop" : 1592396684767,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "ac3f444e0421b397",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692736,
+          "stop" : 1592396692738,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_send_http",
+        "uid" : "8e7f7bf294e8412c",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684863,
+          "stop" : 1592396684863,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "39f04351bcb43238",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684854,
+          "stop" : 1592396684854,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_another",
+        "uid" : "2c5fd94c23bdb16",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684875,
+          "stop" : 1592396684875,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "101edf28535c6f19",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592396684568,
+          "stop" : 1592396684569,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "fdb0a4dc180a8d93",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684767,
+          "stop" : 1592396684767,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "7dca66195fccd81e",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692719,
+          "stop" : 1592396692722,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "66fcadaba1143c44",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684830,
+          "stop" : 1592396684831,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "bd3cf53e8c3d2831",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684854,
+          "stop" : 1592396684854,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case0]",
+        "uid" : "bc2f8cbb81c8d8f",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684830,
+          "stop" : 1592396684831,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "6558f261220f50d4",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684760,
+          "stop" : 1592396684760,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "e8b2c2abc658b6c4",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692696,
+          "stop" : 1592396692697,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "d7ecbbdcd1256b9a",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684813,
+          "stop" : 1592396684813,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_another",
+        "uid" : "4b851749cf9327d5",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396684875,
+          "stop" : 1592396684875,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_send_http",
+        "uid" : "709906c42aa1a864",
+        "parentUid" : "84124940111e64d2a12e108cb3f4b615",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592396692754,
+          "stop" : 1592396692754,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "84124940111e64d2a12e108cb3f4b615"
+    }, {
+      "name" : "108420-MainThread",
+      "children" : [ {
+        "name" : "test_login[case0]",
+        "uid" : "a6e195fef6ebc620",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003568,
+          "stop" : 1592380003568,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "77aae37e23cc76b7",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003522,
+          "stop" : 1592380003523,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "a15b940c614f0187",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003555,
+          "stop" : 1592380003556,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "1288a1b41a25b781",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003542,
+          "stop" : 1592380003542,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "7a1a4799f41c0160",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003529,
+          "stop" : 1592380003530,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "a97434613638781e",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003561,
+          "stop" : 1592380003562,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[case1]",
+        "uid" : "ea06a474821b65b6",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003573,
+          "stop" : 1592380003574,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+      }, {
+        "name" : "test_login[case3]",
+        "uid" : "e262bb0544145837",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003585,
+          "stop" : 1592380003585,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_login[case2]",
+        "uid" : "7169ba4afefad3e7",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003579,
+          "stop" : 1592380003579,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+      }, {
+        "name" : "test_s1",
+        "uid" : "d773dde7719ae36d",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003536,
+          "stop" : 1592380003537,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "b68a68ef0898ba26",
+        "parentUid" : "d55fc5be85555314a95b3a64b8e0a636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592380003547,
+          "stop" : 1592380003547,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d55fc5be85555314a95b3a64b8e0a636"
+    } ],
+    "uid" : "a7c7f7b99ddcfdf17ff459eaf3c60735"
+  } ]
+}

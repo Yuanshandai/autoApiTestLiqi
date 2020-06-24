@@ -1,0 +1,115 @@
+{
+  "uid" : "25e5beca7eaea520",
+  "name" : "test_login[case3]",
+  "fullName" : "testcases.Test_Login.TestLogin#test_login",
+  "historyId" : "55961e97750e66d70336887bc18a857a",
+  "time" : {
+    "start" : 1592380003585,
+    "stop" : 1592380003585,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592380003332,
+      "stop" : 1592380003519,
+      "duration" : 187
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1592380003584,
+      "stop" : 1592380003584,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ec3e9de6a5ac814",
+      "name" : "log",
+      "source" : "2ec3e9de6a5ac814.txt",
+      "type" : "text/plain",
+      "size" : 244
+    }, {
+      "uid" : "5c364ae69b1fdc26",
+      "name" : "stdout",
+      "source" : "5c364ae69b1fdc26.txt",
+      "type" : "text/plain",
+      "size" : 20
+    }, {
+      "uid" : "27b6ad7c15a45cb1",
+      "name" : "stderr",
+      "source" : "27b6ad7c15a45cb1.txt",
+      "type" : "text/plain",
+      "size" : 264
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T9LGAR2"
+  }, {
+    "name" : "thread",
+    "value" : "108420-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.Test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25e5beca7eaea520.json",
+  "parameterValues" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+}

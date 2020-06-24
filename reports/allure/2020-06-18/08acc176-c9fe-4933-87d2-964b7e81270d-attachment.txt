@@ -1,0 +1,2 @@
+INFO - ------------------------------------------------------
+INFO - Func test_login1 in file: C:\liqi\autoApiTestLiqi\testcases\Test_allure.py

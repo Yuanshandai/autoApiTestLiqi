@@ -1,0 +1,343 @@
+{
+  "uid" : "e8db7c2d8eca14cb",
+  "name" : "test_login[case1]",
+  "fullName" : "testcases.Test_Login.TestLogin#test_login",
+  "historyId" : "c6aa3a2344c0449b2501e3b70b0ff835",
+  "time" : {
+    "start" : 1592398102186,
+    "stop" : 1592398102187,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592398101822,
+      "stop" : 1592398102099,
+      "duration" : 277
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1592398102185,
+      "stop" : 1592398102185,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1ea1460ab64d1235",
+      "name" : "log",
+      "source" : "1ea1460ab64d1235.txt",
+      "type" : "text/plain",
+      "size" : 244
+    }, {
+      "uid" : "486d4ff2c3bcc045",
+      "name" : "stderr",
+      "source" : "486d4ff2c3bcc045.txt",
+      "type" : "text/plain",
+      "size" : 112
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T9LGAR2"
+  }, {
+    "name" : "thread",
+    "value" : "66496-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.Test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d7914ad8454f4413",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592398101957,
+        "stop" : 1592398101959,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "b93a0500bc41ebed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592398101869,
+        "stop" : 1592398101869,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "df76ef411aecb00a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592398067181,
+        "stop" : 1592398067181,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b2b85db2a48e7688",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592396716802,
+        "stop" : 1592396716803,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "db1735d0400fa44e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592396692728,
+        "stop" : 1592396692730,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "faeb2d981ad441ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592396684839,
+        "stop" : 1592396684839,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "73107c0fbec1b540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592396684839,
+        "stop" : 1592396684839,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a0af3d26b93b19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380748183,
+        "stop" : 1592380748185,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f2555fcecd96e329",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380743266,
+        "stop" : 1592380743266,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "90fe52a3de28797c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380743266,
+        "stop" : 1592380743266,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1c928d081943951a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380512304,
+        "stop" : 1592380512306,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "79100803b46880e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380507595,
+        "stop" : 1592380507595,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fff25f51ba4576df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380507595,
+        "stop" : 1592380507595,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7a6838357a901a1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380345832,
+        "stop" : 1592380345835,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "1b977cae7cb59a4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380341812,
+        "stop" : 1592380341812,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2cfc041b70973a4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380341812,
+        "stop" : 1592380341812,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a8db783e56124578",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592380003573,
+        "stop" : 1592380003574,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b5c4f6d9bc641d69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592377119241,
+        "stop" : 1592377119244,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "f56df65232d4ea67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592377115027,
+        "stop" : 1592377115027,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cfc738890ae16581",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592377115027,
+        "stop" : 1592377115027,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4abadf42f4cc63f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592377040288,
+        "stop" : 1592377040291,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "48a02b9507b225b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592377034539,
+        "stop" : 1592377034539,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e7051afce4352363",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592377034539,
+        "stop" : 1592377034539,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "81e3d6517143ad9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592364387747,
+        "stop" : 1592364387750,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "6ccb6290c0354dc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592364387343,
+        "stop" : 1592364387344,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5b6d4dac543053c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592364387343,
+        "stop" : 1592364387344,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4ef1166562d627a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592362159542,
+        "stop" : 1592362159548,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "36c21fb5b8ead2d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592362158811,
+        "stop" : 1592362158811,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fd4720cb12c2516a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592362158811,
+        "stop" : 1592362158811,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8db7c2d8eca14cb.json",
+  "parameterValues" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+}

@@ -1,0 +1,15 @@
+{
+  "total" : 14,
+  "items" : [ {
+    "uid" : "3e6ebb7283af629a2041f3f44bb2b5ef",
+    "name" : "编辑页面",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

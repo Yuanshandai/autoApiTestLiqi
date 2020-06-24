@@ -1,0 +1,2 @@
+INFO     Test:__init__.py:90 ------------------------------------------------------
+INFO     Test:__init__.py:91 Func test_s1 in file: C:\liqi\autoApiTestLiqi\testcases\Test_1.py

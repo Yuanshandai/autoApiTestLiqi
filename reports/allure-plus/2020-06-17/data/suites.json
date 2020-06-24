@@ -1,0 +1,236 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "Test_1",
+      "children" : [ {
+        "name" : "test_s1",
+        "uid" : "9947d0a9f6449dd3",
+        "parentUid" : "7b070533828d3dfdf87f8d8432ce280d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102103,
+          "stop" : 1592398102104,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "5686b129a50292d9",
+        "parentUid" : "7b070533828d3dfdf87f8d8432ce280d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102114,
+          "stop" : 1592398102115,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b070533828d3dfdf87f8d8432ce280d"
+    }, {
+      "name" : "Test_2",
+      "children" : [ {
+        "name" : "test_s1",
+        "uid" : "ed4f885017ca8920",
+        "parentUid" : "0f6ca75955bbd48bb4862ee38c91a2c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102125,
+          "stop" : 1592398102125,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s2",
+        "uid" : "3fcd5a55af07ef5a",
+        "parentUid" : "0f6ca75955bbd48bb4862ee38c91a2c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102133,
+          "stop" : 1592398102133,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_s3",
+        "uid" : "61cb87d0c28f079a",
+        "parentUid" : "0f6ca75955bbd48bb4862ee38c91a2c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102142,
+          "stop" : 1592398102143,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0f6ca75955bbd48bb4862ee38c91a2c4"
+    }, {
+      "name" : "Test_3",
+      "children" : [ {
+        "name" : "TestEditPage",
+        "children" : [ {
+          "name" : "test_1",
+          "uid" : "37aad482fce61acd",
+          "parentUid" : "5c9459394338e19ab8ad98989109e656",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592398102154,
+            "stop" : 1592398102155,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_2",
+          "uid" : "5d626517c93094a9",
+          "parentUid" : "5c9459394338e19ab8ad98989109e656",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592398102165,
+            "stop" : 1592398102165,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5c9459394338e19ab8ad98989109e656"
+      } ],
+      "uid" : "660b48088a4d6b1f338ce72203650827"
+    }, {
+      "name" : "Test_Login",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "test_login[case0]",
+          "uid" : "dd14d10196939def",
+          "parentUid" : "eafd494e07433afd405373f9242bdab0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592398102175,
+            "stop" : 1592398102175,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': 'admin', 'pwd': '123456', 'expect': '{\"code\": 0, \"msg\": \"登录成功\"}'}" ]
+        }, {
+          "name" : "test_login[case1]",
+          "uid" : "7abea4b24d072c80",
+          "parentUid" : "eafd494e07433afd405373f9242bdab0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592398102186,
+            "stop" : 1592398102187,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': 'admin', 'pwd': '132456', 'expect': '{\"code\": 1, \"msg\": \"账号或密码不正确\"}'}" ]
+        }, {
+          "name" : "test_login[case2]",
+          "uid" : "1c0e0bb6f9a567da",
+          "parentUid" : "eafd494e07433afd405373f9242bdab0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592398102197,
+            "stop" : 1592398102198,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': '', 'pwd': '123456', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+        }, {
+          "name" : "test_login[case3]",
+          "uid" : "303fd37a142faab9",
+          "parentUid" : "eafd494e07433afd405373f9242bdab0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592398102208,
+            "stop" : 1592398102209,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': 'admin', 'pwd': '', 'expect': '{\"code\": 1, \"mgs\": \"所有的参数不能为空\"}'}" ]
+        } ],
+        "uid" : "eafd494e07433afd405373f9242bdab0"
+      } ],
+      "uid" : "d0d1885d6b01185a44ff3794d6a89829"
+    }, {
+      "name" : "Test_mark",
+      "children" : [ {
+        "name" : "test_send_http",
+        "uid" : "3f32dbea4675b236",
+        "parentUid" : "2873d2fd6c199c97b82a1871d995c241",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102217,
+          "stop" : 1592398102217,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_something_quick",
+        "uid" : "f265581d0a32a91a",
+        "parentUid" : "2873d2fd6c199c97b82a1871d995c241",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102227,
+          "stop" : 1592398102227,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_another",
+        "uid" : "354bf2bdfd05302a",
+        "parentUid" : "2873d2fd6c199c97b82a1871d995c241",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592398102235,
+          "stop" : 1592398102236,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestClass",
+        "children" : [ {
+          "name" : "test_method",
+          "uid" : "9ef495d2637f018a",
+          "parentUid" : "348a5d41bacde6278699fc8cc75d5f38",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592398102244,
+            "stop" : 1592398102244,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "348a5d41bacde6278699fc8cc75d5f38"
+      } ],
+      "uid" : "2873d2fd6c199c97b82a1871d995c241"
+    } ],
+    "uid" : "b51346658ccdb9db01a6b5f6c12deab1"
+  } ]
+}

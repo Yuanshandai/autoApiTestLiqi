@@ -1,0 +1,167 @@
+{
+  "uid" : "9ef495d2637f018a",
+  "name" : "test_method",
+  "fullName" : "testcases.Test_mark.TestClass#test_method",
+  "historyId" : "82fe49707266ec4ad35e1f1082419811",
+  "time" : {
+    "start" : 1592398102244,
+    "stop" : 1592398102244,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592398101822,
+      "stop" : 1592398102099,
+      "duration" : 277
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1592398102243,
+      "stop" : 1592398102243,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9237bc7805331e37",
+      "name" : "log",
+      "source" : "9237bc7805331e37.txt",
+      "type" : "text/plain",
+      "size" : 185
+    }, {
+      "uid" : "1a8f3c38ead78055",
+      "name" : "stdout",
+      "source" : "1a8f3c38ead78055.txt",
+      "type" : "text/plain",
+      "size" : 20
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_mark"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T9LGAR2"
+  }, {
+    "name" : "thread",
+    "value" : "66496-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.Test_mark"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9cba5bf252851af8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592398102015,
+        "stop" : 1592398102015,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1661d642d85612b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592398101928,
+        "stop" : 1592398101928,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "520fa81ec4d1d06d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592398067245,
+        "stop" : 1592398067246,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e23a6710a980de71",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592396716880,
+        "stop" : 1592396716880,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "31b31bcfa5f63ef3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592396692770,
+        "stop" : 1592396692770,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a40fd8aaa4d74fea",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592396684882,
+        "stop" : 1592396684882,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bc9661a73d1ed3f6",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'afters'",
+      "time" : {
+        "start" : 1592396684882,
+        "stop" : 1592396684882,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ef495d2637f018a.json",
+  "parameterValues" : [ ]
+}

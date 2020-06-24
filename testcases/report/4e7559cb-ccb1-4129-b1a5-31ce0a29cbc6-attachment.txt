@@ -1,0 +1,8 @@
+[32mINFO    [0m Test:__init__.py:90 ------------------------------------------------------
+[32mINFO    [0m Test:__init__.py:91 Func test_redis in file: C:\liqi\autoApiTestLiqi\testcases\Test_case2_pushMiniPro.py
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:120 老师微信是:wxid_ss245739845
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:121 key值是:wxid_ss245739845_PUSH_MINI_PRO_LIST
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:124 最新放入redis的推小程序指令是:{'account': 'dongfangyao', 'accountWechatId': 'wxid_ss245739845', 'studentWechatId': 'lq1592904705109988', 'nsNickName': 'lq1592904705109988', 'studentRealWechatId': 'wxid_1592904705109988', 'serverTime': 1592906644375, 'retryCount': 1, 'operationType': 36, 'recordId': '1592906643902335', 'expireTime': 1593079444376, 'system': 'WE', 'additionalInfo': '高意向学员', 'notNeedCover': True, 'messageList': [], 'guideSpeech': '同学你好', 'programId': 'ws123', 'pictureTitle': '小程序', 'pictureImg': 'string', 'programURL': 'http:hh123.com?additionalProp1=&additionalProp2=&additionalProp3=', 'miniproType': 0, 'memoPicUrlsStr': '', 'personListIdStr': '', 'crowdListIdStr': '', 'labelListStr': ''}
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:126 redis中最新一条指令的recordId是：1592906643902335
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:127 生成的recordId是：1592906643902335
+[32mINFO    [0m 日志:Test_case2_pushMiniPro.py:128 redis中存在刚放入的推小程序指令
